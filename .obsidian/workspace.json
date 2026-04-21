@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_AST_UNIT 2.md",
+                "file": "REMA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_AST_UNIT 2"
-            }
-          },
-          {
-            "id": "bb3f658a52052a0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AST.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "AST"
+              "title": "REMA"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,20 +198,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "bb3f658a52052a0d",
+  "active": "cf7d97ef6099a4ee",
   "lastOpenFiles": [
-    "_REMA_UNIT 3.md",
-    "REMA.md",
-    "_AST_UNIT 1.md",
-    "_AST_UNIT 2.md",
-    "AST.md",
-    "__Index__.md",
-    "DFIR.md",
     "_REMA_UNIT 4.md",
+    "REMA.md",
+    "_REMA_UNIT_5.md",
+    "_REMA_UNIT_3.md",
+    "_AST_UNIT 2.md",
+    "_REMA_UNIT 3.md",
+    "DFIR.md",
+    "VAPT.md",
+    "AST.md",
+    "_REMA_UNIT_4.md",
+    "_AST_UNIT 1.md",
+    "__Index__.md",
     "_AST_UNIT 3.md",
     "_AST_UNIT 4.md",
     "_AST_UNIT 5.md",
-    "VAPT.md",
     "VAPT LAB 7.md",
     "Pasted image 20260406103700.png",
     "Pasted image 20260406102705.png",

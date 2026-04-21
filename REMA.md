@@ -6,7 +6,7 @@
 
 ## Course Units
 
-### [[_REMA_UNIT 3|Unit 3: Malicious Web and Document Files]]
+### [[_REMA_UNIT_3|Unit 3: Malicious Web and Document Files]]
 
 **Topics Covered:**
 - Interacting with Malicious Websites to Assess Threats
@@ -15,7 +15,7 @@
 - Examining Malicious Microsoft Office Documents (Including Macros)
 - Analyzing Malicious RTF Document Files
 
-### [[_REMA_UNIT 4|Unit 4: In-Depth Malware Analysis]]
+### [[_REMA_UNIT_4|Unit 4: In-Depth Malware Analysis]]
 
 **Topics Covered:**
 - Recognizing Packed Malware
@@ -27,6 +27,15 @@
 - Advanced JavaScript De-obfuscation
 - Advanced PDF Document Analysis
 - Advanced Office Document Analysis
+
+### [[_REMA_UNIT_5|Unit 5: Examining Self Defending Malware]]
+
+**Topics Covered:**
+- Interacting with Malicious Websites to Assess Threats
+- De-obfuscating Malicious JavaScript Using Debuggers and Interpreters
+- Analyzing Suspicious PDF Files
+- Examining Malicious Microsoft Office Documents (Including Macros)
+- Analyzing Malicious RTF Document Files
 
 ---
 
