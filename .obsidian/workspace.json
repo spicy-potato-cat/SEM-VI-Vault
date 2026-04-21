@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "166e71090555c879",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8994f3d5ff673f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40bacd6b6ec521a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AST"
+            }
+          },
+          {
+            "id": "cf7d97ef6099a4ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_AST_UNIT 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_AST_UNIT 2"
+            }
+          },
+          {
+            "id": "bb3f658a52052a0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AST.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AST"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "96a4a5648acb1162",
+    "type": "split",
+    "children": [
+      {
+        "id": "410519eab3b04170",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "413229dc452c5cc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "7f793b087f36370d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "57d86253de79235c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2aafc5d1059ce854",
+    "type": "split",
+    "children": [
+      {
+        "id": "f96dc8fb4e00289b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e02fa04231c849d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_AST_UNIT 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for _AST_UNIT 3"
+            }
+          },
+          {
+            "id": "3ce9788993d35afe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_AST_UNIT 3.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from _AST_UNIT 3"
+            }
+          },
+          {
+            "id": "65e86176b6f47402",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "546a5572704b1295",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8617261ec82f24b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_AST_UNIT 3.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of _AST_UNIT 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "bb3f658a52052a0d",
+  "lastOpenFiles": [
+    "_REMA_UNIT 3.md",
+    "REMA.md",
+    "_AST_UNIT 1.md",
+    "_AST_UNIT 2.md",
+    "AST.md",
+    "__Index__.md",
+    "DFIR.md",
+    "_REMA_UNIT 4.md",
+    "_AST_UNIT 3.md",
+    "_AST_UNIT 4.md",
+    "_AST_UNIT 5.md",
+    "VAPT.md",
+    "VAPT LAB 7.md",
+    "Pasted image 20260406103700.png",
+    "Pasted image 20260406102705.png",
+    "Pasted image 20260406101913.png"
+  ]
+}
