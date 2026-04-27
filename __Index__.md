@@ -1,4 +1,0 @@
-[[VAPT]]
-[[DFIR]]
-[[REMA]]
-[[AST]]
