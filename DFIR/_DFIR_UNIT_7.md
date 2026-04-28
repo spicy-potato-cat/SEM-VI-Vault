@@ -8,11 +8,11 @@
 
 ## Table of Contents
 
-1. [[#1. Stages in Incident Response]]
-2. [[#2. IR Charter and CSIRT]]
-3. [[#3. IR Plan and Playbook]]
-4. [[#4. Indicators of Compromise (IoC)]]
-5. [[#5. Integrating Digital Forensics and Incident Response]]
+[[#1. Stages in Incident Response]]
+[[#2. IR Charter and CSIRT]]
+[[#3. IR Plan and Playbook]]
+[[#4. Indicators of Compromise (IoC)]]
+[[#5. Integrating Digital Forensics and Incident Response]]
 
 ---
 
