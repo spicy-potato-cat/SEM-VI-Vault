@@ -295,15 +295,15 @@ From the book (Ch. 1, p. 29):
 
 ### 2.2 CSIRT Core Functions
 
-| Function | Description |
-|---|---|
-| **Detection & Analysis** | Monitor for incidents; analyze threats and indicators |
-| **Coordination** | Coordinate response across teams, departments, and external parties |
-| **Technical Response** | Contain, eradicate, and recover from incidents |
-| **Communication** | Notify stakeholders, law enforcement, regulators as required |
-| **Forensics** | Conduct or coordinate digital forensic investigations |
-| **Post-Incident Review** | Lead lessons-learned processes and update procedures |
-| **Threat Intelligence** | Share and consume threat intelligence with external parties |
+| Function                 | Description                                                         |
+| ------------------------ | ------------------------------------------------------------------- |
+| **Detection & Analysis** | Monitor for incidents; analyze threats and indicators               |
+| **Coordination**         | Coordinate response across teams, departments, and external parties |
+| **Technical Response**   | Contain, eradicate, and recover from incidents                      |
+| **Communication**        | Notify stakeholders, law enforcement, regulators as required        |
+| **Forensics**            | Conduct or coordinate digital forensic investigations               |
+| **Post-Incident Review** | Lead lessons-learned processes and update procedures                |
+| **Threat Intelligence**  | Share and consume threat intelligence with external parties         |
 
 ---
 
